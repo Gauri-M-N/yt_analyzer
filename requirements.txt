@@ -3,3 +3,9 @@ uvicorn
 google-api-python-client
 python-dotenv
 python-multipart
+
+streamlit
+plotly
+requests
+urllib3
+certifi
